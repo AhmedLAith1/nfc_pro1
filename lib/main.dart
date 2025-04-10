@@ -8,7 +8,7 @@ import 'package:nfc_manager/platform_tags.dart';
 import '../../../../core/constants.dart'; // تأكد من وجود الثوابت المناسبة
 import 'app/app.dart';
 
-void main() => runApp( MyApp());
+void main() => runApp(MyApp());
 
 
 
